@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/giphytaskjava.iml" filepath="$PROJECT_DIR$/.idea/giphytaskjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GiphyTaskG.iml" filepath="$PROJECT_DIR$/.idea/modules/GiphyTaskG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GiphyTaskG.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GiphyTaskG.app.iml" />
     </modules>
   </component>
 </project>
